@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\C#\LessonOne007\bin\Debug\net6.0\LessonOne007.exe
+C:\Users\PC\Desktop\C#\LessonOne007\bin\Debug\net6.0\LessonOne007.deps.json
+C:\Users\PC\Desktop\C#\LessonOne007\bin\Debug\net6.0\LessonOne007.runtimeconfig.json
+C:\Users\PC\Desktop\C#\LessonOne007\bin\Debug\net6.0\LessonOne007.dll
+C:\Users\PC\Desktop\C#\LessonOne007\bin\Debug\net6.0\LessonOne007.pdb
+C:\Users\PC\Desktop\C#\LessonOne007\obj\Debug\net6.0\LessonOne007.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C#\LessonOne007\obj\Debug\net6.0\LessonOne007.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\C#\LessonOne007\obj\Debug\net6.0\LessonOne007.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C#\LessonOne007\obj\Debug\net6.0\LessonOne007.AssemblyInfo.cs
+C:\Users\PC\Desktop\C#\LessonOne007\obj\Debug\net6.0\LessonOne007.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#\LessonOne007\obj\Debug\net6.0\LessonOne007.dll
+C:\Users\PC\Desktop\C#\LessonOne007\obj\Debug\net6.0\refint\LessonOne007.dll
+C:\Users\PC\Desktop\C#\LessonOne007\obj\Debug\net6.0\LessonOne007.pdb
+C:\Users\PC\Desktop\C#\LessonOne007\obj\Debug\net6.0\LessonOne007.genruntimeconfig.cache
+C:\Users\PC\Desktop\C#\LessonOne007\obj\Debug\net6.0\ref\LessonOne007.dll
