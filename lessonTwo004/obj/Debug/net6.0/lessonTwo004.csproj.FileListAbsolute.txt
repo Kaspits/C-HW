@@ -1,0 +1,15 @@
+C:\Users\PC\Desktop\C#\lessonTwo004\obj\Debug\net6.0\lessonTwo004.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\C#\lessonTwo004\obj\Debug\net6.0\lessonTwo004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\C#\lessonTwo004\obj\Debug\net6.0\lessonTwo004.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\C#\lessonTwo004\obj\Debug\net6.0\lessonTwo004.AssemblyInfo.cs
+C:\Users\PC\Desktop\C#\lessonTwo004\obj\Debug\net6.0\lessonTwo004.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\C#\lessonTwo004\bin\Debug\net6.0\lessonTwo004.exe
+C:\Users\PC\Desktop\C#\lessonTwo004\bin\Debug\net6.0\lessonTwo004.deps.json
+C:\Users\PC\Desktop\C#\lessonTwo004\bin\Debug\net6.0\lessonTwo004.runtimeconfig.json
+C:\Users\PC\Desktop\C#\lessonTwo004\bin\Debug\net6.0\lessonTwo004.dll
+C:\Users\PC\Desktop\C#\lessonTwo004\bin\Debug\net6.0\lessonTwo004.pdb
+C:\Users\PC\Desktop\C#\lessonTwo004\obj\Debug\net6.0\lessonTwo004.dll
+C:\Users\PC\Desktop\C#\lessonTwo004\obj\Debug\net6.0\refint\lessonTwo004.dll
+C:\Users\PC\Desktop\C#\lessonTwo004\obj\Debug\net6.0\lessonTwo004.pdb
+C:\Users\PC\Desktop\C#\lessonTwo004\obj\Debug\net6.0\lessonTwo004.genruntimeconfig.cache
+C:\Users\PC\Desktop\C#\lessonTwo004\obj\Debug\net6.0\ref\lessonTwo004.dll
